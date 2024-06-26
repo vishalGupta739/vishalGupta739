@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... java
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...god
-- ⚡ Fun fact: ... Girl
+- ⚡ Fun fact: ... iti
 
 <!---
 vishalGupta739/vishalGupta739 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
